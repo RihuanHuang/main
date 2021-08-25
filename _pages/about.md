@@ -12,7 +12,7 @@ Welcome! I am Rihuan Huang, a fifth-year PhD candidate in [Operations, Technolog
 
 My current research interests include supply chain contracting, supply chain finance and sustainability. I use experimental methods to study these problems to generate managerial insights from a behavioral perspective.  In this website you can find more about my research and myself.
 
-[[Curriculum Vitae](https://rihuanhuang.github.io/files/cv_rihuanhuang.pdf)] 
+[[Curriculum Vitae](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf)] 
 [[Official Page](https://www.johnson.cornell.edu/programs/phd-program/current-students/rh567/)]
 
 

@@ -15,7 +15,7 @@ author_profile: true
 ## Instructor
 * NCC 5080 Managing Operaions (MBA Core)
    * Co-host weekly review sessions
-  * Sprint 2021
+  * Spring 2021
 
 ## Teaching Assistant
 * NCCT 5080 Managing Operaions (Cornell-Tsinghua Finance MBA Program)

@@ -27,6 +27,6 @@ ___
 ___
 "Joint Optimisation of Order Batching and Picker Routing in the Online Retailers' Warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2): 447-461. [[Document]](https://drive.google.com/file/d/1defXw9bc0oZ6X4s35MhOEUX6G-bSU3j7/view?usp=sharing)
 
-"Inventory Allocation Policy to Distribution Centers with Minimum Split Orders in Online Retailing." with Jianbin Li and Lele Li. *Jonrnal of Industrial Engineering & Engineering Management (管理工程学报)* 2017, 31(3): 167-173. [[Document]](https://drive.google.com/file/d/1fLhXj14tIelTSYU5d7XJpKhrPZV2FVYu/view?usp=sharing)
+"Inventory Allocation Policy to Distribution Centers with Minimum Split Orders in Online Retailing." with Jianbin Li and Lele Li. *Jonrnal of Industrial Engineering & Engineering Management (管理工程学报)* 2017, 31(3): 167-173. [[Document]](https://rihuanhuang.github.io/files/[2017IJPR]Joint%20optimisation%20of%20order%20batching%20and%20picker%20routing%20in%20the%20online%20retailer%20s%20warehouse%20in %20China.pdf)
 
 

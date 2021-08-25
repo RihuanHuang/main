@@ -60,7 +60,7 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020 (2020)
 * Byron E. Grote Johnson Professional Scholarship, Cornell University (2019)
 * Graduate School Fellowship, Cornell University (2017)
-* China National Scholarship (Master Level), Huazhong University of Science & Technology, 2016
+* China National Scholarship (Master Level), Huazhong University of Science & Technology (2016)
 * Dongfeng Nissan Scholarship, Huazhong University of Science & Technology (2016)
 * Zhixing Scholarship, Huazhong University of Science & Technology (2015, 2016)
 * Outstanding Volunteer, Huazhong University of Science & Technology (2011)

@@ -12,12 +12,12 @@ author_profile: true
 {% include base_path %}
 
 ## Johnson Graduate School of Management, Cornell University.
-## Instructor
+### Instructor
 * NCC 5080 Managing Operaions (MBA Core)
    * Co-host weekly review sessions
   * Spring 2021
 
-## Teaching Assistant
+### Teaching Assistant
 * NCCT 5080 Managing Operaions (Cornell-Tsinghua Finance MBA Program)
     * Spring 2021
 

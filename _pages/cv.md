@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-
+## Education
 * Ph.D. in Operations, Technology & Information Management, 2017-2022 (expected)
     * Cornell University, Samuel Curtis Johnson Graduate School of Management
 
@@ -22,33 +21,33 @@ redirect_from:
 * Bachelor of Arts in Law (second major), 2012-2014
     * Wuhan University
 
-### Research Interests
+## Research Interests
 Behavioral operations, Supply chain contracting, Supply chain finance, Sustainability
 
-### Research Papers
-#### Working Paper
+## Research Papers
+### Working Paper
 * "Retailer Inventory Sharing in Two-tier Supply Chains:  An Experimental Investigation." with AndrewM. Davis and Douglas J. Thomas. Minor revision at *Management Science*
     * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
-#### Work in Progress
+### Work in Progress
 * "An Experimental Investigation of Supplier Financing." with Andrew M. Davis and Kyle B. Hyndman.
 * "Managing Reputation Risk in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew M. Davis.
 
-#### Pre-PhD Publications
+### Pre-PhD Publications
 * "Joint optimisation of order batching and picker routing in the online retailer’s warehouse in China." with Jianbin Li and James Bin Dai.*International Journal of Production Research* 2017, 55(2):  447-461.
 * "Inventory allocation policy to distribution centers with minimum split orders in online retailing." with Jianbin Li and Lele Li. *Jonrnal of Industrial Engineering & Engineering Management* 2017, 31(3):167-173. (in Chinese)
 
-### Teaching Experience
-#### Co-instructor at Cornell University
+## Teaching Experience
+### Co-instructor at Cornell University
 * Weekly review sessions for NCC 5080 Managing Operations (MBA Core), Spring 2021
-#### Teaching Assistant at Cornell University
+### Teaching Assistant at Cornell University
 * NCCT 5080 Managing Operations (Cornell-Tsinghua Finance MBA), Spring 2021
 * NBA 5200 Retail Operations (MBA), Spring 2020
 * NBA 6850 Digital Business Operations (MBA), Spring 2020
 * NBA 6100 Applied Operations Strategy (MBA), Fall 2019
 * NCC 5080 Managing Operations (MBA Core), Spring 2019
 
-### Presentations
+## Presentations
 * "Retailer Inventory Sharing in Two-tier Supply Chains: An Experimental Investigation."
     * OTIM PhD Forum, Johnson Graduate School of Management, Cornell University (Sep 2019)
     * 2019 INFORMS Annual Meeting (Oct 2019)
@@ -56,7 +55,7 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
     * 2020 INFORMS Annual Meeting (Nov 2020)
     * MSOM 2021 (Jun 2021)
 
-### Honors & Awards
+## Honors & Awards
 * Bartholomew Family Charitable Fund PhD student Scholarship, Cornell University (2020)
 * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020 (2020)
 * Byron E. Grote Johnson Professional Scholarship, Cornell University (2019)
@@ -66,14 +65,14 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 * Zhixing Scholarship, Huazhong University of Science & Technology (2015, 2016)
 * Outstanding Volunteer, Huazhong University of Science & Technology (2011)
 
-### Service & Miscellaneous
+## Service & Miscellaneous
 * Co-chair, OTIM PhD Forum, Cornell University (2019 - 2020)
 * Behavioral Operations Management Summer Institute, University of Michigan (June 2019)
 * Ad hoc reviewer for *Production & Operations Management*, *European Journal of Operational Research*
 
-### Industrial Experience
+## Industrial Experience
 * Intern at logistics department, 1 Drugstore, 111, Inc, Shanghai, China (Feb - Jul 2016)
 
-### Skills
+## Skills
 * Programming: Python, Matlab, R, JavaScript, Stata, Excel VBA, LaTex
 * Language: Mandarin (native), Cantonese (native), English (fluent)

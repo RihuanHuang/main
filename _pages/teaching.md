@@ -5,13 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-## Johnson Graduate School of Management, Cornell University.
+## Johnson Graduate School of Management, Cornell University
 ### Instructor
 * NCC 5080 Managing Operaions (MBA Core)
    * Co-host weekly review sessions

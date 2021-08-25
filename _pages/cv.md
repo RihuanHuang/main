@@ -40,7 +40,6 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 ## Teaching Experience
 ### Co-instructor at Cornell University
 * Weekly review sessions for NCC 5080 Managing Operations (MBA Core), Spring 2021
-* 
 ### Teaching Assistant at Cornell University
 * NCCT 5080 Managing Operations (Cornell-Tsinghua Finance MBA), Spring 2021
 * NBA 5200 Retail Operations (MBA), Spring 2020

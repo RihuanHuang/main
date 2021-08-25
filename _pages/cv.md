@@ -34,12 +34,13 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 * "Managing Reputation Risk in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew M. Davis.
 
 ### Pre-PhD Publications
-* "Joint optimisation of order batching and picker routing in the online retailer’s warehouse in China." with Jianbin Li and James Bin Dai.*International Journal of Production Research* 2017, 55(2):  447-461.
+* "Joint optimisation of order batching and picker routing in the online retailer’s warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2):  447-461.
 * "Inventory allocation policy to distribution centers with minimum split orders in online retailing." with Jianbin Li and Lele Li. *Jonrnal of Industrial Engineering & Engineering Management* 2017, 31(3):167-173. (in Chinese)
 
 ## Teaching Experience
 ### Co-instructor at Cornell University
 * Weekly review sessions for NCC 5080 Managing Operations (MBA Core), Spring 2021
+* 
 ### Teaching Assistant at Cornell University
 * NCCT 5080 Managing Operations (Cornell-Tsinghua Finance MBA), Spring 2021
 * NBA 5200 Retail Operations (MBA), Spring 2020

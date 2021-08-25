@@ -21,13 +21,13 @@ author_profile: true
 * NCCT 5080 Managing Operaions (Cornell-Tsinghua Finance MBA Program)
     * Spring 2021
 
-* NCC 5200 Retail Operations (MBA Elective Course)
+* NCC 5200 Retail Operations (MBA Elective)
     * Spring 2020
-* NBA 6850 Digital Business Operations (MBA Elective Course)
+* NBA 6850 Digital Business Operations (MBA Elective)
     * Spring 2020
-* NBA 6100 Applied Operations Strategy (MBA Elective Course)
+* NBA 6100 Applied Operations Strategy (MBA Elective)
     * Fall 2019
-* NCC 5080 Managing Operations (MBA Core Course)
+* NCC 5080 Managing Operations (MBA Core)
     * Spring 2019
 
 

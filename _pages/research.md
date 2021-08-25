@@ -14,7 +14,7 @@ author_profile: true
 ## Working Paper
 * "Retailer Inventory Sharing in Two-Tier Supply Chains: An Experimental Investigation." with Andrew M. Davis and Douglas J. Thomas. 2021. Minor revision at *Management Science*.
    * [Document](https://rihuanhuang.github.io/files/InvShare-Submit-R2_Website.pdf)
-  * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
+  * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.eee
 
 ## Work in Progress
 * "An Experimental Investigation of Supplier Financing." with Andrew M. Davis and Kyle B. Hyndman. 2021.

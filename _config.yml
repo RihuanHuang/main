@@ -83,11 +83,11 @@ author:
   name             : "Rihuan Huang"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Operations Management"
-  location         : 
+  location         : Cornell University
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=vJIrrzwAAAAJ&hl=en"
+  email            : "mailto:rh567@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -31,8 +31,5 @@ Cornell University
 
 Email: [rh567@cornell.edu](mailto:rh567@cornell.edu)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?
-cl=ffffff&w=a&t=n&d=JcipEIJFW-dkhJcB4z_6Jp7_Ri_X9ng5LK5H8qNNy1M&co=ffffff&cmo=ffffff&cmn=ffffff' style="width: 1%">
-</script>
 
 

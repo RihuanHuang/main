@@ -52,12 +52,19 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 
 ## Presentations
 * "Retailer Inventory Sharing in Two-tier Supply Chains: An Experimental Investigation."
-    * OTIM PhD Forum, Johnson Graduate School of Management, Cornell University (Sep 2019)
-    * 2019 INFORMS Annual Meeting (Oct 2019)
-    * OTIM Workshop, Johnson Graduate School of Management, Cornell University (Apr 2020)
-    * 2020 INFORMS Annual Meeting (Nov 2020)
+    * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
+      * Session VSD45, Oct 24 
     * MSOM 2021 (Jun 2021)
+    * 2020 INFORMS Annual Meeting (Nov 2020)
+    * OTIM Workshop, Cornell University (Apr 2020)
+    * 2019 INFORMS Annual Meeting (Oct 2019)
+    * OTIM PhD Forum, Cornell University (Sep 2019)
 
+* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study."
+  * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
+    * Session VTC45, Oct 26 
+  * OTIM PhD Forum, Cornell University (Apr 2021)
+  
 ## Honors & Awards
 * Bartholomew Family Charitable Fund PhD student Scholarship, Cornell University (2020)
 * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020 (2020)
@@ -71,10 +78,8 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 ## Service & Miscellaneous
 * Co-chair, OTIM PhD Forum, Cornell University (2019 - 2020)
 * Behavioral Operations Management Summer Institute, University of Michigan (June 2019)
-* Ad hoc reviewer for *Production & Operations Management*, *European Journal of Operational Research*
-
-## Industrial Experience
 * Intern at logistics department, 1 Drugstore, 111, Inc, Shanghai, China (Feb - Jul 2016)
+* Ad hoc reviewer for *Production & Operations Management*, *European Journal of Operational Research*
 
 ## Skills
 * Programming: Python, Matlab, R, JavaScript, Stata, Excel VBA, LaTex

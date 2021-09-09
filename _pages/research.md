@@ -18,7 +18,7 @@ author_profile: true
   * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
 ## Work in Progress
-* "An Experimental Investigation of Supplier Financing." with Andrew M. Davis and Kyle B. Hyndman. 2021.
+* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman. 2021.
 
 * "Responsible Sourcing and Risk Sharing in Multi-tier Supply Chain: An Behavioral Study." with Li Chen and Andrew M. Davis. 2021.
 

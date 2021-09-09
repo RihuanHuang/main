@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my [CV](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf) here. 
+
 ## Education
 * Ph.D. in Operations, Technology & Information Management, 2017-2022 (expected)
     * Cornell University, Samuel Curtis Johnson Graduate School of Management
@@ -30,7 +32,7 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
     * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
 ### Work in Progress
-* "An Experimental Investigation of Supplier Financing." with Andrew M. Davis and Kyle B. Hyndman.
+* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman.
 * "Managing Reputation Risk in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew M. Davis.
 
 ### Pre-PhD Publications

@@ -27,11 +27,12 @@ You can find my [CV](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf) her
 Behavioral operations, Supply chain contracting, Supply chain finance, Sustainability
 
 ## Research Papers
-### Working Paper
-* "Retailer Inventory Sharing in Two-tier Supply Chains:  An Experimental Investigation." with AndrewM. Davis and Douglas J. Thomas. Minor revision at *Management Science*
+### Publication
+* "Retailer Inventory Sharing in Two-tier Supply Chains:  An Experimental Investigation." with AndrewM. Davis and 
+  Douglas J. Thomas. Forthcoming at *Management Science*
     * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
-
-### Work in Progress
+  
+### Working Paper
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman.
 * "Managing Reputation Risk in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew M. Davis.
 

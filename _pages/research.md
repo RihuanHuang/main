@@ -11,18 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Paper
+## Publication
 * "Retailer Inventory Sharing in Two-Tier Supply Chains: An Experimental Investigation." with Andrew M. Davis and 
-  Douglas J. Thomas. 2021. Minor revision at *Management Science*.
+  Douglas J. Thomas. 2021. Forthcoming at *Management Science*.
    * [[Document](https://rihuanhuang.github.io/files/InvShare-Submit-R2_Website.pdf)]
   * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
-## Work in Progress
+## Working Paper
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman. 2021.
+* "Responsible Sourcing and Risk Sharing in Multi-tier Supply Chains: An Behavioral Study." with Li Chen and Andrew 
+  M. Davis. 2021.
 
-* "Responsible Sourcing and Risk Sharing in Multi-tier Supply Chain: An Behavioral Study." with Li Chen and Andrew M. Davis. 2021.
-
-## Publications
+## Pre-PhD Publication
 * "Joint Optimisation of Order Batching and Picker Routing in the Online Retailers' Warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2): 447-461. [[Document](https://rihuanhuang.github.io/files/2017IJPR.pdf)]
 
 * "Inventory Allocation Policy to Distribution Centers with Minimum Split Orders in Online Retailing." with Jianbin 

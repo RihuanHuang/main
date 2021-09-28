@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Running
+I enjoy running and have participated in a few marathon events. 
 * 2014 Suzhou Jinji Lake International Half Marathon
   * Date: 03/30/2014
   * Location: Suzhou, Jiangsu, China

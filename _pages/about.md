@@ -10,9 +10,14 @@ redirect_from:
 
 Welcome! I am Rihuan Huang, a fifth-year PhD candidate in [Operations, Technology & Information Management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) at [Johnson Graduate School of Management](https://www.johnson.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
 
-My current research interests include supply chain contracting, supply chain finance and sustainability. I use experimental methods to study these problems to generate managerial insights from a behavioral perspective.  In this website you can find more about my research and myself.
+My current research interests include supply chain contracting, supply chain finance and social responsibility. I use 
+experimental methods to study these topics to generate managerial insights from a behavioral perspective. In this 
+website you can find more about my research and myself.
 
 I am on the 2021-2022 academic job market.
+
+INFORMS in-person session: MB12 & MC12, Oct 25 <br />
+INFORMS virtual session: VSD45, Oct 24 & VTC45 Oct 26
 
 [[Curriculum Vitae](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf)] 
 [[Official Page](https://www.johnson.cornell.edu/programs/phd-program/current-students/rh567/)]

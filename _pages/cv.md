@@ -24,7 +24,7 @@ You can find my [CV](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf) her
     * Wuhan University
 
 ## Research Interests
-Behavioral operations, Supply chain contracting, Supply chain finance, Sustainability
+Behavioral operations, Supply chain management, Supply chain contracting, Supply chain finance, Social responsibility
 
 ## Research Papers
 ### Publication
@@ -54,7 +54,7 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 ## Presentations
 * "Retailer Inventory Sharing in Two-tier Supply Chains: An Experimental Investigation."
     * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
-      * Session VSD45, Oct 24 
+      * Session MB12, Oct 25 (in person) & VSD45, Oct 24 (virtual) 
     * MSOM 2021 (Jun 2021)
     * 2020 INFORMS Annual Meeting (Nov 2020)
     * OTIM Workshop, Cornell University (Apr 2020)
@@ -63,7 +63,7 @@ Behavioral operations, Supply chain contracting, Supply chain finance, Sustainab
 
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study."
   * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
-    * Session VTC45, Oct 26 
+    * Session MC12, Oct 25 (in person) & VTC45, Oct 26 (virtual) 
   * OTIM PhD Forum, Cornell University (Apr 2021)
   
 ## Honors & Awards

@@ -24,7 +24,7 @@ You can find my [CV](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf) her
     * Wuhan University
 
 ## Research Interests
-Behavioral operations, Supply chain management, Supply chain contracting, Supply chain finance, Social responsibility
+Behavioral operations, Supply chain management, Supply chain contracting, Inventory management, Supply chain finance, Social responsibility
 
 ## Research Papers
 ### Publication

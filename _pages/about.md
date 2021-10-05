@@ -32,7 +32,7 @@ Cornell SC Johnson College of Business
 <br />
 Cornell University
 <br />
-301A Sage Hall, Ithaca, NY 14853
+114 Feeney Way, Sage Hall 301B, Ithaca, NY 14853
 
 Email: [rh567@cornell.edu](mailto:rh567@cornell.edu)
 

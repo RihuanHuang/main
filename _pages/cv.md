@@ -34,7 +34,7 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
   
 ### Working Paper
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman.
-* "Managing Reputation Risk in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew M. Davis.
+* "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew M. Davis.
 
 ### Pre-PhD Publications
 * "Joint optimisation of order batching and picker routing in the online retailer’s warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2):  447-461.

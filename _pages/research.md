@@ -19,7 +19,7 @@ author_profile: true
 
 ## Working Paper
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman. 2021.
-* "Responsible Sourcing and Risk Sharing in Multi-tier Supply Chains: An Behavioral Study." with Li Chen and Andrew 
+* "Responsible Sourcing and Risk Sharing in Multi-tier Supply Chains: A Behavioral Study." with Li Chen and Andrew 
   M. Davis. 2021.
 
 ## Pre-PhD Publication

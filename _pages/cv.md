@@ -28,12 +28,12 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
 ## Research Papers
 ### Publication
 * "Retailer Inventory Sharing in Two-tier Supply Chains:  An Experimental Investigation." with AndrewM. Davis and 
-  Douglas J. Thomas. Forthcoming at *Management Science*
+  Douglas J. Thomas. Forthcoming at *Management Science*.
     * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
   
 ### Working Paper
-* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman.
-* "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew M. Davis.
+* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman. *In preparation for submission*.
+* "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew M. Davis. *Data collection in progress*.
 
 ### Pre-PhD Publications
 * "Joint optimisation of order batching and picker routing in the online retailer’s warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2):  447-461.

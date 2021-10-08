@@ -77,7 +77,7 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
 
 ## Service & Miscellaneous
 * Co-chair, OTIM PhD Forum, Cornell University (2019 - 2020)
-* Behavioral Operations Management Summer Institute, University of Michigan (June 2019)
+* Behavioral Operations Management Summer Institute, University of Michigan (Jun 2019)
 * Intern at logistics department, 1 Drugstore, 111, Inc, Shanghai, China (Feb - Jul 2016)
 * Ad hoc reviewer for *Production & Operations Management*, *European Journal of Operational Research*
 

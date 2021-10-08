@@ -21,7 +21,6 @@ You can find my [CV](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf) her
 * Bachelor of Management in Logistics Management, 2010-2014
     * Huazhong University of Science & Technology, School of Management
 * Bachelor of Arts in Law (second major), 2012-2014
-    * Wuhan University
 
 ## Research Interests
 Behavioral operations, Supply chain management, Supply chain contracting, Inventory management, Supply chain finance, Social responsibility

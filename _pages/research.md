@@ -18,9 +18,10 @@ author_profile: true
   * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
 ## Working Paper
-* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. Hyndman. 2021.
+* "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. 
+  Hyndman. 2021. *In preparation for submission*.
 * "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
-  M. Davis. 2021.
+  M. Davis. 2021. *Data collection in progress*.
 
 ## Pre-PhD Publication
 * "Joint Optimisation of Order Batching and Picker Routing in the Online Retailers' Warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2): 447-461. [[Document](https://rihuanhuang.github.io/files/2017IJPR.pdf)]

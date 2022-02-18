@@ -52,8 +52,7 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
 
 ## Presentations
 * "Retailer Inventory Sharing in Two-tier Supply Chains: An Experimental Investigation."
-    * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
-      * Session MB12, Oct 25 (in person) & VSD45, Oct 24 (virtual) 
+    * 2021 INFORMS Annual Meeting (Oct 2021)
     * MSOM 2021 (Jun 2021)
     * 2020 INFORMS Annual Meeting (Nov 2020)
     * OTIM Workshop, Cornell University (Apr 2020)
@@ -61,8 +60,7 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
     * OTIM PhD Forum, Cornell University (Sep 2019)
 
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study."
-  * 2021 INFORMS Annual Meeting (Oct 2021, scheduled)
-    * Session MC12, Oct 25 (in person) & VTC45, Oct 26 (virtual) 
+  * 2021 INFORMS Annual Meeting (Oct 2021)
   * OTIM PhD Forum, Cornell University (Apr 2021)
   
 ## Honors & Awards

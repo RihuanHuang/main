@@ -28,7 +28,7 @@ Behavioral operations, Supply chain management, Supply chain contracting, Invent
 ## Research Papers
 ### Publication
 * "Retailer Inventory Sharing in Two-tier Supply Chains:  An Experimental Investigation." with AndrewM. Davis and 
-  Douglas J. Thomas. Forthcoming at *Management Science*.
+  Douglas J. Thomas. 2022. *Management Science*. Articles in Advance.
     * Runner Up, College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
   
 ### Working Paper

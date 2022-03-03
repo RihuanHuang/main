@@ -13,8 +13,7 @@ author_profile: true
 
 ## Publication
 * "Retailer Inventory Sharing in Two-Tier Supply Chains: An Experimental Investigation." with Andrew M. Davis and 
-  Douglas J. Thomas. 2022. *Management Science*. Articles in Advance.
-   * [[Document](https://rihuanhuang.github.io/files/InvShare.pdf)]
+  Douglas J. Thomas. 2022. *Management Science*. Articles in Advance. [[Document](https://rihuanhuang.github.io/files/InvShare.pdf)]
   * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
 
 ## Working Paper

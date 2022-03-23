@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Welcome! I am Rihuan Huang, currently a fifth-year PhD candidate in [Operations, Technology & Information Management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) at [Johnson Graduate School of Management](https://www.johnson.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
-Starting Fall 2022, I will join the School of Management 
-and Economics at the Chinese University of Hong Kong (Shenzhen) as an assistant professor 
+Starting Fall 2022, I will join the [School of Management 
+and Economics](https://sme.cuhk.edu.cn/en) at [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en) as an assistant professor 
 in the Department of Operations Management.
 
 My current research interests include supply chain contracting, supply chain finance and social responsibility. I use 

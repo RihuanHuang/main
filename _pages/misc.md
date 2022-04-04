@@ -44,4 +44,4 @@ I enjoy running and have participated in a few marathon events.
 * The 40th Annual Skunk Cabbage Classic
   * Date: 04/03/2022
   * Location: Ithaca, NY, USA
-  * Event: Half Marathon 
+  * Event: Half Marathon [[Result](https://www.leonetiming.com/results/runner.php?id=2534501&tpl=results-gun-only.tpl)]

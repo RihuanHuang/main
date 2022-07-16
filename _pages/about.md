@@ -23,12 +23,10 @@ website you can find more about my research and myself.
 ### Contact Information
 
 Address:<br />
-Samuel Curtis Johnson Graduate School of Management 
+School of Management and Economics
 <br />
-Cornell SC Johnson College of Business
+Chinese University of Hong Kong (Shenzhen)
 <br />
-Cornell University
-<br />
-114 Feeney Way, Sage Hall 301B, Ithaca, NY 14853
+2001 Longxiang Boulevard, Longgang District, Shenzhen, Guangdong, China
 
-Email: [rh567@cornell.edu](mailto:rh567@cornell.edu)
+Email: [huangrihuan@cuhk.edu.cn](mailto:huangrihuan@cuhk.edu.cn)

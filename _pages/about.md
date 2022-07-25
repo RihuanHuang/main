@@ -27,7 +27,7 @@ School of Management and Economics
 <br />
 The Chinese University of Hong Kong (Shenzhen)
 <br />
-2001 Longxiang Boulevard, Longgang District, Shenzhen, Guangdong, China
+2001 Longxiang Boulevard, Longgang District, Shenzhen 518172, China
 
 Email: [huangrihuan@cuhk.edu.cn](mailto:huangrihuan@cuhk.edu.cn)
 

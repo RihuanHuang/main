@@ -31,12 +31,3 @@ The Chinese University of Hong Kong (Shenzhen)
 
 Email: [huangrihuan@cuhk.edu.cn](mailto:huangrihuan@cuhk.edu.cn)
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PSDFT615R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8PSDFT615R');
-</script>

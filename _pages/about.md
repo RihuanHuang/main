@@ -25,8 +25,18 @@ website you can find more about my research and myself.
 Address:<br />
 School of Management and Economics
 <br />
-Chinese University of Hong Kong (Shenzhen)
+The Chinese University of Hong Kong (Shenzhen)
 <br />
 2001 Longxiang Boulevard, Longgang District, Shenzhen, Guangdong, China
 
 Email: [huangrihuan@cuhk.edu.cn](mailto:huangrihuan@cuhk.edu.cn)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PSDFT615R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8PSDFT615R');
+</script>

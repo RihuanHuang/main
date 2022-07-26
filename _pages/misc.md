@@ -16,7 +16,6 @@ I enjoy running and have participated in a few marathon events.
   * Date: 03/30/2014
   * Location: Suzhou, Jiangsu, China
   * Event: Half Marathon [[Certificate](https://rihuanhuang.github.io/files/sz-hm2014.pdf)]
-  * 
 * 2014 Shenzhen International Marathon
   * Date: 12/07/2014
   * Location: Shenzhen, Guangdong, China

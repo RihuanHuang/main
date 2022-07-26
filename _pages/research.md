@@ -22,9 +22,9 @@ author_profile: true
   Li and Lele Li. *Journal of Industrial Engineering & Engineering Management* (管理工程学报) 2017, 31(3): 167-173. 
 [[Document](https://rihuanhuang.github.io/files/2017GLGCXB.pdf)]
 
-## Working Papers
+## Working Papers and Work in Progress
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. 
-  Hyndman. 2021. *In preparation for submission*.
+  Hyndman. 2021. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
 * "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
   M. Davis. 2021. *Data collection in progress*.
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "麻薯(MaShu)'s page (under construction)"
+title: "麻薯(M&aacute;Shu)'s page (under construction)"
 permalink: /ms/
 author_profile: true
 redirect_from:

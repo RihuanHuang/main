@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 麻薯：Nice to meet you!
-![Alt text](https://rihuanhuang.github.io/images/20230112_234649.jpg "N2MY")
+![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
 

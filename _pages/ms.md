@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-麻薯：Nice to meet you!
+**麻薯：Nice to meet you!**
+
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
 
+**2023-02-06**
+![Alt text](https://rihuanhuang.github.io/images/MS/20230206.jpg "2023_02_06")
+
+**2023-01-29**
+![Alt text](https://rihuanhuang.github.io/images/MS/20230129.jpg "2023_01_29")
+
+**2022-12-16**
+![Alt text](https://rihuanhuang.github.io/images/MS/20221216.jpg "2022_12_16")
+
+**2022-12-08**
+![Alt text](https://rihuanhuang.github.io/images/MS/20221208.jpg "2022_12_08")
+
+**2022-12-06**
+![Alt text](https://rihuanhuang.github.io/images/MS/20221206.jpg "2022_12_06")

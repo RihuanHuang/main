@@ -56,4 +56,3 @@ I enjoy running and have participated in a few marathon events.
   * 2020: 172.58km
   * 2021: 223.53km
   * 2022: 442.18km
-  * 2023: 45.62km

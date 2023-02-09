@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Rihuan Huang, an assistant professor of operations management at  the [School of Management 
-and Economics](https://sme.cuhk.edu.cn/en) at [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en).
-I received my Ph.D. in [Operations, Technology & Information Management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) at [Johnson Graduate School of Management](https://www.johnson.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
+Welcome! I am Rihuan Huang, an assistant professor of operations management at the [School of Management 
+and Economics](https://sme.cuhk.edu.cn/en) at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en).
+I received my Ph.D. in [Operations, Technology & Information Management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) from [Johnson Graduate School of Management](https://www.johnson.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
 
 My current research interests include supply chain contracting, supply chain finance and social responsibility. I use 
 experimental methods to study these topics to generate managerial insights from a behavioral perspective. In this 

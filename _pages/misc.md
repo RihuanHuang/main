@@ -46,7 +46,7 @@ I enjoy running and have participated in a few marathon events.
   * Location: Ithaca, NY, USA
   * Event: Half Marathon [[Result](https://www.leonetiming.com/results/runner.php?id=2534501&tpl=results-gun-only.tpl)]
 
-* Total running distance since 2014: 2503.02km (as of 01/15/2023)
+* Total running distance since 2014: 2503.02km (as of 02/09/2023)
   * 2014: 729.89km  
   * 2015: 442.90km
   * 2016: 46.20km
@@ -56,4 +56,4 @@ I enjoy running and have participated in a few marathon events.
   * 2020: 172.58km
   * 2021: 223.53km
   * 2022: 442.18km
-  * 2023: 22.99km
+  * 2023: 45.62km

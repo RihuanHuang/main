@@ -26,6 +26,7 @@ author_profile: true
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. 
   Hyndman. 2022. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
 * "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
-  M. Davis. 2022. *Data collection in progress*.
+  M. Davis. 2022.
+* "The Role of Equity-driven Design in Product Innovation." with Wee Kiat Lee and Xiaoyue Yan. 2023.
 
 

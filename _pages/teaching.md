@@ -9,10 +9,10 @@ author_profile: true
 
 ## School of Management and Economics, CUHK-Shenzhen
 ### Instructor
-* IBA 6305 Supply Chain and Logistics Management (MSc in Information Management and Business Analytics)
-  * Fall 2022 (5.82/6.00)
 * DMS 2030 Operations Management (Undergraduate)
   * Spring 2023
+* IBA 6305 Supply Chain and Logistics Management (MSc in Information Management and Business Analytics)
+  * Fall 2022 (5.82/6.00)
 
 ## Johnson Graduate School of Management, Cornell University
 ### Instructor

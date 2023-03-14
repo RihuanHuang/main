@@ -48,7 +48,7 @@ I enjoy running and have participated in a few marathon events.
 
 * 2022 Shenzhen Baoan Marathon
   * Date: 03/14/2023 (Scheduled)
-  * Location: Shenzhen, China
+  * Location: Shenzhen, Guangdong, China
   * Event: Half Marathon 
 
 * Total running distance since 2014: 2600.43km (as of 03/14/2023)

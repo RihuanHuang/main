@@ -46,7 +46,12 @@ I enjoy running and have participated in a few marathon events.
   * Location: Ithaca, NY, USA
   * Event: Half Marathon [[Result](https://www.leonetiming.com/results/runner.php?id=2534501&tpl=results-gun-only.tpl)]
 
-* Total running distance since 2014: 2564.92km (as of 02/26/2023)
+* 2022 Shenzhen Baoan Marathon
+  * Date: 03/14/2023 (Scheduled)
+  * Location: Shenzhen, China
+  * Event: Half Marathon 
+
+* Total running distance since 2014: 2600.43km (as of 03/14/2023)
   * 2014: 729.89km  
   * 2015: 442.90km
   * 2016: 46.20km

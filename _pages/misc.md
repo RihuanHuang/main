@@ -47,7 +47,7 @@ I enjoy running and have participated in a few marathon events.
   * Event: Half Marathon [[Result](https://www.leonetiming.com/results/runner.php?id=2534501&tpl=results-gun-only.tpl)]
 
 * 2022 Shenzhen Baoan Marathon
-  * Date: 03/14/2023 (Scheduled)
+  * Date: 03/19/2023 (Scheduled)
   * Location: Shenzhen, Guangdong, China
   * Event: Half Marathon 
 

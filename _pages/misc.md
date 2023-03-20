@@ -47,9 +47,9 @@ I enjoy running and have participated in a few marathon events.
   * Event: Half Marathon [[Result](https://www.leonetiming.com/results/runner.php?id=2534501&tpl=results-gun-only.tpl)]
 
 * 2022 Shenzhen Baoan Marathon
-  * Date: 03/19/2023 (Scheduled)
+  * Date: 03/19/2023 (Postponed to 2023 due to COVID-19)
   * Location: Shenzhen, Guangdong, China
-  * Event: Half Marathon 
+  * Event: Half Marathon  [[Certificate](https://rihuanhuang.github.io/files/sz-hm2023.jpg)]
 
 * Total running distance since 2014: 2600.43km (as of 03/14/2023)
   * 2014: 729.89km  

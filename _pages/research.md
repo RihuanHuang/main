@@ -24,7 +24,7 @@ author_profile: true
 
 ## Working Papers and Work in Progress
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. 
-  Hyndman. Major reviesion at *Manufacturing & Service Operations Management*. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
+  Hyndman. Major revision at *Manufacturing & Service Operations Management*. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
 * "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
   M. Davis. In progress.
 * "The Role of Equity-driven Design in Product Innovation." with Wee Kiat Lee and Xiaoyue Yan. In progress.

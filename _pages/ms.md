@@ -13,6 +13,13 @@ redirect_from:
 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
 
+**2023-04-09 to 2023-05-07 Hosting two visiting scholars**
+![Alt text](https://rihuanhuang.github.io/images/MS/20230409.jpg "Gathering")
+Attending seminar
+![Alt text](https://rihuanhuang.github.io/images/MS/seminar.jpg "Seminar")
+Tea break
+![Alt text](https://rihuanhuang.github.io/images/MS/teabreak.jpg "Tea Break")
+
 **2023-04-05**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230405.jpg "2023_04_05")
 

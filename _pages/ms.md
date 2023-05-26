@@ -50,6 +50,9 @@ Attending seminar
 Tea break
 ![Alt text](https://rihuanhuang.github.io/images/MS/TeaBreak.jpg "Tea Break")
 
+**2023-05-25 Practicing martial arts** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
+
 <br>
 <br>
 

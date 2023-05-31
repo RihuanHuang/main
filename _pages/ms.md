@@ -31,7 +31,7 @@ redirect_from:
 **2023-02-25**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230225.jpg "2023_02_25")
 
-**2023-03-16 First time using dating app** 
+**2023-03-16 First time using a dating app** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230316.jpg "2023_03_16")
 
 **2023-03-17**
@@ -40,7 +40,7 @@ redirect_from:
 **2023-03-28**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230328.jpg "2023_03_28")
 
-**2023-04-05**
+**2023-04-05 Practicing entry-level punching**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230405.jpg "2023_04_05")
 
 **2023-04-09 to 2023-05-07 Hosting two visiting scholars**

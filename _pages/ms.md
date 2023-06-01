@@ -5,6 +5,17 @@ permalink: /ms/
 author_profile: true
 redirect_from:
   - /ms
+
+gallery:
+  - url: https://rihuanhuang.github.io/images/MS/20230525.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20230525.jpg
+    alt: "1"
+  - url: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
+    image_path: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
+    alt: "Made for open text placement"
+  - url: https://rihuanhuang.github.io/images/MS/20230409.jpg 
+    image_path: https://rihuanhuang.github.io/images/MS/20230409.jpg 
+    alt: "Fog in the trees"
 ---
 
 {% include base_path %}
@@ -53,10 +64,12 @@ Tea break
 **2023-05-25 Practicing martial arts** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
 
-<br>
-<br>
+{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
 
+
+<br>
+<br>
 Looks like you really love him! What about knowing more about his "dark" side?
 
 <br>

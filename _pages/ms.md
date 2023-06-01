@@ -64,8 +64,7 @@ Tea break
 **2023-05-25 Practicing martial arts** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
 
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
-
+{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
 
 
 <br>

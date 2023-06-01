@@ -56,18 +56,6 @@ Tea break
 <br>
 <br>
 
-gallery:
-  - url: https://rihuanhuang.github.io/images/MS/20230525.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20230525.jpg
-    alt: "1"
-  - url: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
-    image_path: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
-    alt: "Made for open text placement"
-  - url: https://rihuanhuang.github.io/images/MS/20230409.jpg 
-    image_path: https://rihuanhuang.github.io/images/MS/20230409.jpg 
-    alt: "Fog in the trees"
-
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
 Looks like you really love him! What about knowing more about his "dark" side?
 

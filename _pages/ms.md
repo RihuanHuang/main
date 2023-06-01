@@ -33,6 +33,9 @@ gallery:
 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
 
+{% include figure image_path=https://rihuanhuang.github.io/images/MS/20221206.jpg alt="this is a placeholder image" caption="This is a figure caption." %}
+
+
 **2022-12-06**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20221206.jpg "2022_12_06")
 

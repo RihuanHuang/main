@@ -5,26 +5,6 @@ permalink: /ms/
 author_profile: true
 redirect_from:
   - /ms
-
-gallery:
-  - url: https://rihuanhuang.github.io/images/MS/20221206.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20221206.jpg
-    alt: "1"
-  - url: https://rihuanhuang.github.io/images/MS/20221208.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20221208.jpg
-    alt: "Made for open text placement"
-  - url: https://rihuanhuang.github.io/images/MS/20221216.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20221216.jpg
-    alt: "Fog in the trees"
-  - url: https://rihuanhuang.github.io/images/MS/20230129.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20230129.jpg
-    alt: "1"
-  - url: https://rihuanhuang.github.io/images/MS/20230206.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20230206.jpg
-    alt: "Made for open text placement"
-  - url: https://rihuanhuang.github.io/images/MS/20230225.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20230225.jpg
-    alt: "Fog in the trees"
 ---
 
 {% include base_path %}
@@ -32,8 +12,6 @@ gallery:
 **麻薯：Nice to meet you!**
 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
-
-{% include figure image_path="/images/MS/20221206.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 **2022-12-06**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20221206.jpg "2022_12_06")
@@ -74,9 +52,6 @@ Tea break
 
 **2023-05-25 Practicing martial arts** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
-
-{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
-
 
 <br>
 <br>

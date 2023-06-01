@@ -16,6 +16,15 @@ gallery:
   - url: https://rihuanhuang.github.io/images/MS/20221216.jpg
     image_path: https://rihuanhuang.github.io/images/MS/20221216.jpg
     alt: "Fog in the trees"
+  - url: https://rihuanhuang.github.io/images/MS/20230129.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20230129.jpg
+    alt: "1"
+  - url: https://rihuanhuang.github.io/images/MS/20230206.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20230206.jpg
+    alt: "Made for open text placement"
+  - url: https://rihuanhuang.github.io/images/MS/20230225.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20230225.jpg
+    alt: "Fog in the trees"
 ---
 
 {% include base_path %}

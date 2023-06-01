@@ -7,14 +7,14 @@ redirect_from:
   - /ms
 
 gallery:
-  - url: https://rihuanhuang.github.io/images/MS/20230525.jpg
-    image_path: https://rihuanhuang.github.io/images/MS/20230525.jpg
+  - url: https://rihuanhuang.github.io/images/MS/20221206.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20221206.jpg
     alt: "1"
-  - url: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
-    image_path: https://rihuanhuang.github.io/images/MS/TeaBreak.jpg 
+  - url: https://rihuanhuang.github.io/images/MS/20221208.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20221208.jpg
     alt: "Made for open text placement"
-  - url: https://rihuanhuang.github.io/images/MS/20230409.jpg 
-    image_path: https://rihuanhuang.github.io/images/MS/20230409.jpg 
+  - url: https://rihuanhuang.github.io/images/MS/20221216.jpg
+    image_path: https://rihuanhuang.github.io/images/MS/20221216.jpg
     alt: "Fog in the trees"
 ---
 

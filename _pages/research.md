@@ -14,9 +14,10 @@ author_profile: true
 ## Publications
 * "Retailer Inventory Sharing in Two-Tier Supply Chains: An Experimental Investigation." with Andrew M. Davis and 
   Douglas J. Thomas. *Management Science* 2022, 68(12): 8773-8790. [[Document](https://rihuanhuang.github.io/files/InvShare.pdf)]
-  * Runner Up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
+  * Runner-up: College of Behavioral OM Junior Scholar Paper Competition, POMS 2020.
   
 * "Joint Optimisation of Order Batching and Picker Routing in the Online Retailers' Warehouse in China." with Jianbin Li and James Bin Dai. *International Journal of Production Research* 2017, 55(2): 447-461. [[Document](https://rihuanhuang.github.io/files/2017IJPR.pdf)]
+  * First Prize, The 15th China Society of Logistics Annual Conference, 2016.
 
 * "Inventory Allocation Policy to Distribution Centers with Minimum Split Orders in Online Retailing." with Jianbin 
   Li and Lele Li. *Journal of Industrial Engineering & Engineering Management* (管理工程学报) 2017, 31(3): 167-173. 

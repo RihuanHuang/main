@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I am Rihuan Huang, an assistant professor of operations management at the [School of Management 
-and Economics](https://sme.cuhk.edu.cn/en) at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en).
+and Economics](https://sme.cuhk.edu.cn/en) at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 I received my Ph.D. in [Operations, Technology & Information Management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) from [Johnson Graduate School of Management](https://www.johnson.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
 
 My current research interests include supply chain contracting, supply chain finance and social responsibility. I use 
@@ -25,7 +25,7 @@ website you can find more about my research and me.
 Address:<br />
 School of Management and Economics
 <br />
-The Chinese University of Hong Kong (Shenzhen)
+The Chinese University of Hong Kong, Shenzhen
 <br />
 2001 Longxiang Boulevard, Longgang District, Shenzhen 518172, China
 

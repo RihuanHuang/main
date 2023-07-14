@@ -53,8 +53,8 @@ Tea break
 **2023-05-25 Practicing martial arts** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
 
-**2023-06-14 MáShǔ (Tighnari Ver.)** 
-![Alt text](https://rihuanhuang.github.io/images/MS/20230614.jpg "2023_06_14")
+**2023-06-19 MáShǔ (Tighnari Ver.)** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230619.jpg "2023_06_19")
 
 <br>
 <br>

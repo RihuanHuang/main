@@ -53,6 +53,9 @@ Tea break
 **2023-05-25 Practicing martial arts** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230525.jpg "2023_05_25")
 
+**2023-06-14 MáShǔ (Tighnari Ver.)** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230614.jpg "2023_06_14")
+
 <br>
 <br>
 Looks like you really love him! What about knowing more about his "dark" side?

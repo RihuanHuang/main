@@ -56,6 +56,12 @@ Tea break
 **2023-06-19 MáShǔ (Tighnari Ver.)** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230619.jpg "2023_06_19")
 
+**2023-07-14 "Paper submitted"** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230714.jpg "2023_07_14")
+
+**2023-07-27 "Paper rejected"** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230727.jpg "2023_07_27")
+
 <br>
 <br>
 Looks like you really love him! What about knowing more about his "dark" side?

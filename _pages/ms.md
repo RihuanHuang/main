@@ -62,6 +62,9 @@ Tea break
 **2023-07-27 "Paper rejected"** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230727.jpg "2023_07_27")
 
+**2023-08-24 First birthday!!!** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230824.jpg "Birthday")
+
 <br>
 <br>
 Looks like you really love him! What about knowing more about his "dark" side?

@@ -11,3 +11,6 @@ main:
 
   - title: "麻薯"
     url: /ms/
+
+  - title: "麻薯 test"
+    url: /ms_test/

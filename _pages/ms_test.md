@@ -3,9 +3,8 @@ layout: archive_cat
 title: "麻薯(MáShǔ)'s page"
 permalink: /ms_test/
 cat_profile: true
-author_profile: true
 redirect_from:
-  - /ms
+  - /ms_test
 ---
 
 {% include base_path %}

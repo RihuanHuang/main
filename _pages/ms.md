@@ -65,6 +65,9 @@ Tea break
 **2023-08-24 First birthday!!!** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230824.jpg "Birthday")
 
+**2023-09-19 Ready to ship** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20230919.jpg "2023_09_19")
+
 <br>
 <br>
 Looks like you really love him! What about knowing more about his "dark" side?

@@ -117,14 +117,6 @@ author:
   youtube          :
   wikipedia        :
 
-# Site Cat
-cat:
-  name: "麻薯"
-  avatar: "ms_profile.jpg"
-  bio: "What is bio?"
-  location: "Shenzhen, China"
-
-
 # Reading Files
 include:
   - .htaccess

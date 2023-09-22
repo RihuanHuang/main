@@ -3,6 +3,7 @@ layout: archive
 title: "麻薯(MáShǔ)'s page"
 permalink: /ms/
 author_profile: true
+author: MS
 redirect_from:
   - /ms
 ---

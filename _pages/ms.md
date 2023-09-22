@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "麻薯(MáShǔ)'s page"
+title: "麻薯(MáShǔ)"
 permalink: /ms/
 author_profile: true
 author: MS
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-**麻薯：Nice to meet you!**
+**Nice to meet you! In this page you can see photos of me that I agreed to post online.**
 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230112.jpg "N2MY")
 
@@ -71,7 +71,7 @@ Tea break
 
 <br>
 <br>
-Looks like you really love him! What about knowing more about his "dark" side?
+Looks like you really love me! What about knowing more about my "dark" side?
 
 <br>
 

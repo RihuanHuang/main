@@ -8,6 +8,16 @@ Rihuan Huang:
   avatar      : "profile.jpg"
 
 MS:
-  name        : "MáShǔ"
+  name        : "麻薯(MáShǔ)"
   bio         : "What is bio? I am just a cat."
   avatar      : "ms_profile.jpg"
+  links:
+    - label: "Location"
+      icon: "fa fa-fw fa-map-marker"
+      url: "Shenzhen, China"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "I never check my mailbox"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "I do need an Instagram page!"

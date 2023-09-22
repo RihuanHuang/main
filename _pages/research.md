@@ -28,7 +28,6 @@ author_profile: true
   Hyndman. Major revision at *Manufacturing & Service Operations Management*. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
 * "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
   M. Davis. In progress.
-* "The Role of Equity-driven Design in Product Innovation." with Wee Kiat Lee and Xiaoyue Yan. In progress.
 * "Performance Transparency in Teams." with Xiaoshuai Fan and Changlin Liu. In progress.
 
 

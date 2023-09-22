@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: archive_cat
 title: "麻薯(MáShǔ)'s page"
-permalink: /ms/
-author_profile: true
+permalink: /ms_test/
+cat_profile: true
 redirect_from:
-  - /ms
+  - /ms_test
 ---
 
 {% include base_path %}
@@ -64,9 +64,6 @@ Tea break
 
 **2023-08-24 First birthday!!!** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230824.jpg "Birthday")
-
-**2023-09-19 Ready to ship** 
-![Alt text](https://rihuanhuang.github.io/images/MS/20230919.jpg "2023_09_19")
 
 <br>
 <br>

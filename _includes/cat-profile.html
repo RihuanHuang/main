@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="../assets/css/academicons.css">{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    {% if cat.avatar contains "://" %}
+    	<img src="{{ cat.avatar }}" alt="{{ cat.name }}">
+    {% else %}
+    	<img src="{{ cat.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ cat.name }}">
+    {% endif %}
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">{{ cat.name }}</h3>
+    {% if cat.bio %}<p class="author__bio">{{ cat.bio }}</p>{% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      {% if cat.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

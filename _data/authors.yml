@@ -11,6 +11,7 @@ MS:
   name        : "麻薯(MáShǔ)"
   bio         : "What is bio? I am just a cat."
   avatar      : "ms_profile.jpg"
+  location    : "Shenzhen, China"
   links:
     - label: "Location"
       icon: "fa fa-fw fa-map-marker"

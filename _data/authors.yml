@@ -12,8 +12,4 @@ MS:
   bio         : "What is bio? I am just a cat."
   avatar      : "ms_profile.jpg"
   location    : "Shenzhen, China"
-  links:
-    - label: "Emaileeeee"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mashu_official@outlook.com"
   email       : "mashu_official@outlook.com"

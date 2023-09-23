@@ -73,6 +73,8 @@ Tea break
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?
 
+Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu_official@outlook.com)!
+
 <br>
 
 ![Alt text](https://rihuanhuang.github.io/images/MS/meme.png "meme")

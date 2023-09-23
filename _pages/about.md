@@ -14,7 +14,7 @@ I received my Ph.D. in [Operations, Technology & Information Management](https:/
 
 My current research interests include supply chain contracting, supply chain finance and social responsibility. I use 
 experimental methods to study these topics to generate managerial insights from a behavioral perspective. In this 
-website you can find more about my research and me. 
+website you can find more about my research and me (and a cat). 
 
 [[Curriculum Vitae](https://rihuanhuang.github.io/files/CV_rihuanhuang.pdf)] 
 [[Official Page](https://myweb.cuhk.edu.cn/huangrihuan/)]

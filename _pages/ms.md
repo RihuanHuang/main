@@ -69,6 +69,12 @@ Tea break
 **2023-09-19 Ready to ship** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230919.jpg "2023_09_19")
 
+**2023-10-04 Potential MaShu merchandise?** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20231004.jpg "2023_10_04")
+
+**2023-10-09 Listening to academic talk (with a visiting scholar)** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20231009.jpg "2023_10_09")
+
 <br>
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?

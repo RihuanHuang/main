@@ -75,6 +75,12 @@ Tea break
 **2023-10-09 Listening to academic talk (with a visiting scholar)** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20231009.jpg "2023_10_09")
 
+**2023-12-05 Don't know what to put here but this could be my coolest photo** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20231205.jpg "2023_12_05")
+
+**2023-12-14 MáShǔ (Yae Miko Ver.)** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20231214.jpg "2023_12_14")
+
 <br>
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?

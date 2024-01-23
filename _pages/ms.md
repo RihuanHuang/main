@@ -81,6 +81,12 @@ Tea break
 **2023-12-14 MáShǔ (Yae Miko Ver.)** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20231214.jpg "2023_12_14")
 
+**2023-12-22 What will happen next?** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20231222.jpg "2023_12_22")
+
+**2024-01-04 My first post in 2024** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20240104.jpg "2024_01_04")
+
 <br>
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?

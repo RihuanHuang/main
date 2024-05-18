@@ -27,7 +27,6 @@ author_profile: true
 * "Trade Credit and Bankruptcy Risk in Supply Chains: An Experimental Study." with Andrew M. Davis and Kyle B. 
   Hyndman. Major revision at *Manufacturing & Service Operations Management*. [[Document](https://rihuanhuang.github.io/files/trade_credit.pdf)]
   * Best Junior Faculty Paper, The 15th Workshop on Behavioral OM China, 2023.
-* "A Behavioral Study of Managing Responsible Practice in Multi-tier Supply Chains." with Li Chen and Andrew 
-  M. Davis. In progress.
+
 
 

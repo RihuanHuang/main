@@ -87,6 +87,12 @@ Tea break
 **2024-01-04 My first post in 2024** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20240104.jpg "2024_01_04")
 
+**2024-03-16 Takeing a new profile pic** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20240316.jpg "2024_03_16")
+
+**2024-05-15 Just lost my paws** 
+![Alt text](https://rihuanhuang.github.io/images/MS/20240515.jpg "2024_05_15")
+
 <br>
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?

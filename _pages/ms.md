@@ -87,7 +87,7 @@ Tea break
 **2024-01-04 My first post in 2024** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20240104.jpg "2024_01_04")
 
-**2024-03-16 Takeing a new profile pic** 
+**2024-03-16 Taking a new profile pic** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20240316.jpg "2024_03_16")
 
 **2024-05-15 Just lost my paws** 

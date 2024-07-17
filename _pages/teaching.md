@@ -13,7 +13,7 @@ author_profile: true
   * Spring 2024 (5.94/6.00)
   * Spring 2023 (5.93/6.00)
 * IBA 6305 Supply Chain and Logistics Management (MSc in Information Management and Business Analytics)
-  * Spring 2024 (scheduled)
+  * Spring 2024 (5.87/6.00)
   * Fall 2022 (5.97/6.00)
 
 ## Johnson Graduate School of Management, Cornell University

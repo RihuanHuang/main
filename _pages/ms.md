@@ -118,7 +118,6 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
     <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="5" aria-label="Slide 6"></button>
     <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="6" aria-label="Slide 7"></button>
   </div>
-
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/20221206.jpg" class="d-block w-100" alt="2022-12-06">
@@ -230,7 +229,6 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="7" aria-label="Slide 8"></button>
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="8" aria-label="Slide 9"></button>
   </div>
-
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/20230525.jpg" class="d-block w-100" alt="2023-05-25">
@@ -246,7 +244,7 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
         <p>MáShǔ (Tighnari Ver.)</p>
       </div>
     </div>
-    <div clsss="carousel-item" data-bs-interval="2000">
+    <div class="carousel-item" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/20230714.jpg" class="d-block w-100" alt="2023-07-14">
       <div class="carousel-caption d-none d-md-block">
         <h5>2023-07-14</h5>

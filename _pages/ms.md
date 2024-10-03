@@ -108,29 +108,269 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
 ![Alt text](https://rihuanhuang.github.io/images/MS/meme.png "meme")
 
 
-<div id="catCarousel" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#catCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#catCarousel" data-slide-to="1"></li>
-    <li data-target="#catCarousel" data-slide-to="2"></li>
-  </ol>
+<div id="carouselMS1" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="6" aria-label="Slide 7"></button>
+  </div>
+
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://rihuanhuang.github.io/images/MS/20240711.jpg" class="d-block w-100" alt="Cat Photo 1">
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20221206.jpg" class="d-block w-100" alt="2022-12-06">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2022-12-06</h5>
+      </div>
     </div>
-    <div class="carousel-item">
-      <img src="https://rihuanhuang.github.io/images/MS/meme.png" class="d-block w-100" alt="Cat Photo 2">
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20221208.jpg" class="d-block w-100" alt="2022-12-08">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2022-12-08</h5>
+      </div>
     </div>
-    <div class="carousel-item">
-      <img src="https://rihuanhuang.github.io/images/MS/20231222.jpg" class="d-block w-100" alt="Cat Photo 3">
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20221216.jpg" class="d-block w-100" alt="2022-12-16">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2022-12-16</h5>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230129.jpg" class="d-block w-100" alt="2023-01-29">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-01-29</h5>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230206.jpg" class="d-block w-100" alt="2023-02-06">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-02-06</h5>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230225.jpg" class="d-block w-100" alt="2023-02-25">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-02-25</h5>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230316.jpg" class="d-block w-100" alt="2023-03-16">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-03-16</h5>
+        <p>First time using a dating app</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230405.jpg" class="d-block w-100" alt="2023-04-05">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-04-05</h5>
+        <p>Practicing entry-level punching</p>
+      </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#catCarousel" role="button" data-slide="prev">
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselMS1" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#catCarousel" role="button" data-slide="next">
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselMS1" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div id="carouselMS2" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230409.jpg" class="d-block w-100" alt="2023-04-09">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-04-09 to 2023-05-07</h5>
+        <p>Hosting two visiting scholars</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/Seminar.jpg" class="d-block w-100" alt="Seminar">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Attending seminar</h5>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/TeaBreak.jpg" class="d-block w-100" alt="Tea Break">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Tea break</h5>
+      </div>
+    </div>
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselMS2" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselMS2" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div id="carouselMS3" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="8" aria-label="Slide 9"></button>
+  </div>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230525.jpg" class="d-block w-100" alt="2023-05-25">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-05-25</h5>
+        <p>Practicing martial arts</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230619.jpg" class="d-block w-100" alt="2023-06-19">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-06-19</h5>
+        <p>MáShǔ (Tighnari Ver.)</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230714.jpg" class="d-block w-100" alt="2023-07-14">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-07-14</h5>
+        <p>"Paper submitted"</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230727.jpg" class="d-block w-100" alt="2023-07-27">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-07-27</h5>
+        <p>"Paper rejected"</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230824.jpg" class="d-block w-100" alt="Birthday">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-08-24</h5>
+        <p>First birthday!!!</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20230919.jpg" class="d-block w-100" alt="2023-09-19">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-09-19</h5>
+        <p>Ready to ship</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20231004.jpg" class="d-block w-100" alt="2023-10-04">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-10-04</h5>
+        <p>Potential MaShu merchandise?</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20231009.jpg" class="d-block w-100" alt="2023-10-09">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-10-09</h5>
+        <p>Listening to academic talk (with a visiting scholar)</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20231205.jpg" class="d-block w-100" alt="2023-12-05">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-12-05</h5>
+        <p>Don't know what to put here but this could be my coolest photo</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20231214.jpg" class="d-block w-100" alt="2023-12-14">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-12-14</h5>
+        <p>MáShǔ (Yae Miko Ver.)</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20231222.jpg" class="d-block w-100" alt="2023-12-22">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2023-12-22</h5>
+        <p>What will happen next?</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20240104.jpg" class="d-block w-100" alt="2024-01-04">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2024-01-04</h5>
+        <p>My first post in 2024</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20240316.jpg" class="d-block w-100" alt="2024-03-16">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2024-03-16</h5>
+        <p>Taking a new profile pic</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20240515.jpg" class="d-block w-100" alt="2024-05-15">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2024-05-15</h5>
+        <p>Just lost my paws</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://rihuanhuang.github.io/images/MS/20240711.jpg" class="d-block w-100" alt="2024-07-11">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>2024-07-11</h5>
+        <p>Lost again</p>
+      </div>
+    </div>
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselMS3" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselMS3" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>

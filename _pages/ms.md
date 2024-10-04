@@ -204,7 +204,7 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
     <div class="carousel-item" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/TeaBreak.jpg" class="d-block w-100" alt="Tea Break">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Tea break2</h5>
+        <h5>Tea break</h5>
       </div>
     </div>
   </div>

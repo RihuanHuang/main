@@ -180,7 +180,8 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
 </div>
 
 <br><br><br>
-
+**2023-04-09 to 2023-05-07 Hosting two visiting scholars**
+<br>
 <div id="carouselMS2" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -191,8 +192,6 @@ Also, feel free to shot me an email at [mashu_official@outlook.com](mailto:mashu
     <div class="carousel-item active" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/20230409.jpg" class="d-block w-100" alt="2023-04-09">
       <div class="carousel-caption d-none d-md-block">
-        <h5>2023-04-09 to 2023-05-07</h5>
-        <p>Hosting two visiting scholars</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">

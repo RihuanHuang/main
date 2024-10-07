@@ -90,6 +90,7 @@ redirect_from:
 **2023-06-19 MáShǔ (Tighnari Ver.)** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230619.jpg "2023_06_19")
 
+<br><br><br>
 <div id="carouselMS2" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -109,6 +110,7 @@ redirect_from:
         <h5>2023-07-27</h5>
         <p>"Paper rejected"</p>
       </div>
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselMS2" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -119,6 +121,7 @@ redirect_from:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<br><br><br>
 
 **2023-08-24 First birthday!!!** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230824.jpg "Birthday")
@@ -147,6 +150,7 @@ redirect_from:
 **2024-03-16 Taking a new profile pic** 
 ![Alt text](https://rihuanhuang.github.io/images/MS/20240316.jpg "2024_03_16")
 
+<br><br><br>
 <div id="carouselMS3" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -177,6 +181,7 @@ redirect_from:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<br><br><br>
 
 <br>
 <br>

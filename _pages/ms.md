@@ -43,6 +43,8 @@ redirect_from:
 
 **2023-04-05 Practicing entry-level punching**
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230405.jpg "2023_04_05")
+<img src="https://rihuanhuang.github.io/images/MS/20230405.jpg" alt="2023_04_05" title="2023_04_05" style="max-height: 1600px;">
+
 
 <br><br><br>
 **2023-04-09 to 2023-05-07 Hosting two visiting scholars**

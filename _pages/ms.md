@@ -129,25 +129,25 @@ redirect_from:
 <br><br><br>
 
 **2023-08-24 First birthday!!!**
-<img src="https://rihuanhuang.github.io/images/MS/202300824.jpg" alt="2023_08_24" title="Birthday" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20230824.jpg" alt="2023_08_24" title="Birthday" style="max-height: 1600px; object-fit: cover;">
 
 **2023-09-19 Ready to ship**
-<img src="https://rihuanhuang.github.io/images/MS/202300919.jpg" alt="2023_09_19" title="2023_09_19" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20230919.jpg" alt="2023_09_19" title="2023_09_19" style="max-height: 1600px; object-fit: cover;">
 
 **2023-10-04 Potential MaShu merchandise?**
-<img src="https://rihuanhuang.github.io/images/MS/202301004.jpg" alt="2023_10_04" title="2023_10_04" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20231004.jpg" alt="2023_10_04" title="2023_10_04" style="max-height: 1600px; object-fit: cover;">
 
 **2023-10-09 Listening to academic talk (with a visiting scholar)**
-<img src="https://rihuanhuang.github.io/images/MS/202301009.jpg" alt="2023_10_09" title="2023_10_09" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20231009.jpg" alt="2023_10_09" title="2023_10_09" style="max-height: 1600px; object-fit: cover;">
 
 **2023-12-05 Don't know what to put here but this could be my coolest photo**
-<img src="https://rihuanhuang.github.io/images/MS/202301205.jpg" alt="2023_12_05" title="2023_10_05" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20231205.jpg" alt="2023_12_05" title="2023_10_05" style="max-height: 1600px; object-fit: cover;">
 
 **2023-12-14 MáShǔ (Yae Miko Ver.)**
-<img src="https://rihuanhuang.github.io/images/MS/202301214.jpg" alt="2023_12_14" title="2023_12_14" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20231214.jpg" alt="2023_12_14" title="2023_12_14" style="max-height: 1600px; object-fit: cover;">
 
 **2023-12-22 What will happen next?**
-<img src="https://rihuanhuang.github.io/images/MS/202301222.jpg" alt="2023_12_22" title="2023_12_22" style="max-height: 1600px; object-fit: cover;">
+<img src="https://rihuanhuang.github.io/images/MS/20231222.jpg" alt="2023_12_22" title="2023_12_22" style="max-height: 1600px; object-fit: cover;">
 
 **2024-01-04 My first post in 2024**
 <img src="https://rihuanhuang.github.io/images/MS/20240104.jpg" alt="2024_01_04" title="2024_01_04" style="max-height: 1600px; object-fit: cover;">

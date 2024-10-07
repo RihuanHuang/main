@@ -47,7 +47,7 @@ redirect_from:
 <br><br><br>
 **2023-04-09 to 2023-05-07 Hosting two visiting scholars**
 <br>
-<div id="carouselMS1" class="carousel carousel-dark slide" data-bs-ride="carousel">
+<div id="carouselMS1" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselMS1" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -91,7 +91,7 @@ redirect_from:
 ![Alt text](https://rihuanhuang.github.io/images/MS/20230619.jpg "2023_06_19")
 
 <br><br><br>
-<div id="carouselMS2" class="carousel carousel-dark slide" data-bs-ride="carousel">
+<div id="carouselMS2" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -154,7 +154,7 @@ redirect_from:
 ![Alt text](https://rihuanhuang.github.io/images/MS/20240316.jpg "2024_03_16")
 
 <br><br><br>
-<div id="carouselMS3" class="carousel carousel-dark slide" data-bs-ride="carousel">
+<div id="carouselMS3" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="1" aria-label="Slide 2"></button>

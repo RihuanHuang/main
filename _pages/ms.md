@@ -55,18 +55,18 @@ redirect_from:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="2000">
-      <img src="https://rihuanhuang.github.io/images/MS/20230409.jpg" class="d-block w-100" alt="2023-04-09">
+      <img src="https://rihuanhuang.github.io/images/MS/20230409.jpg" class="d-block w-100" alt="2023-04-09" style="max-height: 1600px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="https://rihuanhuang.github.io/images/MS/Seminar.jpg" class="d-block w-100" alt="Seminar">
+      <img src="https://rihuanhuang.github.io/images/MS/Seminar.jpg" class="d-block w-100" alt="Seminar" style="max-height: 1600px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
         <h5>Attending seminar</h5>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="https://rihuanhuang.github.io/images/MS/TeaBreak.jpg" class="d-block w-100" alt="Tea Break">
+      <img src="https://rihuanhuang.github.io/images/MS/TeaBreak.jpg" class="d-block w-100" alt="Tea Break" style="max-height: 1600px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
         <h5>Tea break</h5>
       </div>

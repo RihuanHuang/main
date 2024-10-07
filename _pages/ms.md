@@ -96,8 +96,9 @@ redirect_from:
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselMS2" data-bs-slide-to="1" aria-label="Slide 2"></button>
   </div>
+
   <div class="carousel-inner">
-    <div class="carousel-item" data-bs-interval="2000">
+    <div class="carousel-item active" data-bs-interval="2000"> <!-- Added 'active' class -->
       <img src="https://rihuanhuang.github.io/images/MS/20230714.jpg" class="d-block w-100" alt="2023-07-14">
       <div class="carousel-caption d-none d-md-block">
         <h5>2023-07-14</h5>
@@ -112,6 +113,7 @@ redirect_from:
       </div>
     </div>
   </div>
+  
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselMS2" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -121,6 +123,7 @@ redirect_from:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+
 <br><br><br>
 
 **2023-08-24 First birthday!!!** 
@@ -157,7 +160,7 @@ redirect_from:
     <button type="button" data-bs-target="#carouselMS3" data-bs-slide-to="1" aria-label="Slide 2"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item" data-bs-interval="2000">
+    <div class="carousel-item active" data-bs-interval="2000">
       <img src="https://rihuanhuang.github.io/images/MS/20240515.jpg" class="d-block w-100" alt="2024-05-15">
       <div class="carousel-caption d-none d-md-block">
         <h5>2024-05-15</h5>

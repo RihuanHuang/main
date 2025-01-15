@@ -188,6 +188,10 @@ redirect_from:
 </div>
 <br><br><br>
 
+**2025-01-07 My first post in 2025 (Happy new year!)**
+<img src="https://rihuanhuang.github.io/images/MS/20250107.jpg" alt="2025_01_07" title="2025_01_07" style="max-height: 1600px; object-fit: cover;">
+
+
 <br>
 <br>
 Looks like you really love me! What about knowing more about my "dark" side?
